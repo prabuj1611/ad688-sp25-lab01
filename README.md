@@ -1,2 +1,2 @@
-# ad688-sp25-lab01
-LAB 01 REPOSITORY FOR AD 688 SP 25 
+git add README.md
+git commit -m "Update README.md"
