@@ -2,7 +2,7 @@ Repository Overview
 
 Description:
 
-This repository was created as part of a lab exercise to practice Git and GitHub usage. The repository contains setup and configuration files essential for version control and repository management. It demonstrates key tasks including Git installation, SSH key configuration, and README updates.
+This repository was created as part of a lab exercise to practice Git and GitHub usage. This Lab 01 demonstrates key tasks including Git installation, SSH key configuration, and README updates.
 
 Contents:
 
