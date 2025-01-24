@@ -2,7 +2,7 @@ Repository Overview
 
 Description:
 
-This repository was created as part of a lab exercise to practice Git and GitHub usage. This Lab 01 demonstrates key tasks including Git installation, SSH key configuration, and README updates.
+This repository was created as part of a lab exercise Introduction to Version Control to practice Git and GitHub usage. This Lab 01 demonstrates key tasks including Git installation, SSH key configuration, and README updates.
 
 Contents:
 
